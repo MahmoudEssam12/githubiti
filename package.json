@@ -1,0 +1,22 @@
+{
+  "name": "githubiti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudEssam12/githubiti.git"
+  },
+  "author": "Mahmoud Essam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoudEssam12/githubiti/issues"
+  },
+  "homepage": "https://github.com/MahmoudEssam12/githubiti#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
